@@ -188,5 +188,12 @@ Let's make ATRI smarter and cuter together!
 
 ---
 <div align="center">
-❤️❤️ ATRI-bot ❤️❤️
+_私は、高性能ですから!_
+
+<img src="https://files.astrbot.app/watashiwa-koseino-desukara.gif" width="100"/>
+
+❤️ ATRI-bot ❤️
+</div>
+<div align="right">
+[English Version](README_ENG.md) | [中文版本](README.md)
 </div>
