@@ -193,5 +193,9 @@ ATRI-main/
 
 ---
 <div align="center">
+_私は、高性能ですから!_
+
+<img src="https://files.astrbot.app/watashiwa-koseino-desukara.gif" width="100"/>
+
 ❤️ ATRI-bot ❤️
 </div>
