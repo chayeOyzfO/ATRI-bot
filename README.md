@@ -199,3 +199,6 @@ _私は、高性能ですから!_
 
 ❤️ ATRI-bot ❤️
 </div>
+<div align="right">
+[English Version](README_ENG.md) | [中文版本](README.md)
+</div>
